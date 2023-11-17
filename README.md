@@ -16,6 +16,8 @@ This Community Code of Conduct applies to:
 
 ## Our Standards
 
+No racism, sexism, homophobia, transphobia, or xenophobia.
+
 Examples of behavior that contributes to creating a positive environment include:
 
 * Using welcoming and inclusive language
