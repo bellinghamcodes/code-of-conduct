@@ -16,8 +16,6 @@ This Community Code of Conduct applies to:
 
 ## Our Standards
 
-No racism, sexism, homophobia, transphobia, or xenophobia.
-
 Examples of behavior that contributes to creating a positive environment include:
 
 * Using welcoming and inclusive language
@@ -33,6 +31,7 @@ Examples of unacceptable behavior by participants include:
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
+* Offensive speech referring to specific groups, whether or not directed at an individual in the community, such as racism, sexism, homophobia, transphobia, or xenophobia
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 
