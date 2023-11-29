@@ -74,7 +74,7 @@ This document is inspired and adapated from Codes of Conduct of other communitie
 [resa]: https://bellinghamcodes.slack.com/messages/@resa/
 [nathancarnes]: https://bellinghamcodes.slack.com/messages/@nathancarnes/
 
-[report]: http://goo.gl/forms/1jLQIDF9Ma
+[report]: https://docs.google.com/forms/d/e/1FAIpQLSfbYdgTUia0at8Xf8ZLpzzEfYB_017djBXRHTpXBrH1cTH8lQ/viewform
 [contributor-covenant]: http://contributor-covenant.org/version/1/4/
 [go]: https://golang.org/conduct
 [elastic]: https://www.elastic.co/community/codeofconduct
